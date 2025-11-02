@@ -1,0 +1,20 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "kuch bhi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "a",
+    "b",
+    "c",
+    "d"
+  ],
+  "author": "raquib",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.6.0"
+  }
+}
